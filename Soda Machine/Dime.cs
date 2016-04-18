@@ -12,7 +12,7 @@ namespace Soda_Machine
 
         public Dime()
         {
-           decimal  dime = .10M;
+             dime = .10M;
             
 
 
